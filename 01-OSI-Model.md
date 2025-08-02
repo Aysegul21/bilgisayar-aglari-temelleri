@@ -1,6 +1,6 @@
 # Giriş
 
-Bu yazımızda OSI modeli ve bilgisayar ağlarının çalışma prensiplerini ele alacağız.  
+Bu yazımızda OSI modeli ve bilgisayar ağlarının çalışma prensiplerini ele alacağız.   
 Ancak OSI modeline geçmeden önce, ağlar ve protokoller gibi bazı temel kavramları bilmek önemlidir.  
 Bu kavramlar, veri iletişiminin nasıl gerçekleştiğini ve OSI modelinin neden geliştirildiğini anlamamıza yardımcı olacaktır.
 
