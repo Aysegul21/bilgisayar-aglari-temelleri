@@ -12,7 +12,7 @@ Bu projede aşağıdaki konular hakkında bilgi verilmektedir:
 - **Bilgisayar Ağları:** Ağların ne olduğu, nasıl çalıştığı ve kullanım alanları  
 - **Protokoller:** HTTP, FTP, SMTP, TCP/UDP gibi temel protokoller ve işlevleri  
 - **Katmanlı Modeller:** OSI modelinin 7 katmanı ve her katmanın görevleri  
-- **OSI Modeli Örnekleri:** Katmanların veri iletimi sürecindeki işlevleri
+- **OSI & TCP/IP Modeli Örnekleri:** Katmanların veri iletimi sürecindeki işlevleri
 
 ---
 
@@ -21,3 +21,4 @@ Bu projede aşağıdaki konular hakkında bilgi verilmektedir:
 Bilgisayar ağlarıyla ilgili yazdığım makalelere aşağıdaki bağlantılardan ulaşabilirsiniz:
 
 1. [OSI Modeli ve Katmanları](https://github.com/Aysegul21/bilgisayar-aglari-temelleri/blob/main/01-OSI-Model.md)  
+2. [TCP/IP Modeli ve Katmanları](https://github.com/Aysegul21/bilgisayar-aglari-temelleri/blob/main/02-TCP-IP-Model.md)
