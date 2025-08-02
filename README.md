@@ -1,6 +1,7 @@
 # Bilgisayar Ağları Temelleri
 
-Bu proje kapsamında bilgisayar ağlarının temelleri, protokoller ve OSI modeli hakkında temel bilgiler sunulmaktadır.  
+Bu repo, bilgisayar ağlarının temelleri, protokoller ve OSI modeli hakkında temel bilgiler sunmaktadır.  
+Ağ iletişimi, veri aktarımı ve OSI katmanlarının işlevleri sade ve anlaşılır bir şekilde ele alınmıştır.
 
 ---
 
@@ -8,18 +9,15 @@ Bu proje kapsamında bilgisayar ağlarının temelleri, protokoller ve OSI model
 
 Bu projede aşağıdaki konular hakkında bilgi verilmektedir:
 
-- **Bilgisayar Ağları:** Ağların ne olduğu, nasıl çalıştığı ve hangi amaçlarla kullanıldığı.  
-- **Protokoller:** Bilgisayarlar arası veri iletişim kurallarının tanımı ve örnekleri (HTTP, FTP, SMTP, TCP/UDP).  
-- **Katmanlı Modeller:** Ağ iletişimini düzenlemek için kullanılan OSI modelinin 7 katmanı.  
-- **OSI Modeli Örnekleri:** Her katmanın DAG yerleşkesi üzerinden nasıl çalıştığına dair somut örnekler.
+- **Bilgisayar Ağları:** Ağların ne olduğu, nasıl çalıştığı ve kullanım alanları  
+- **Protokoller:** HTTP, FTP, SMTP, TCP/UDP gibi temel protokoller ve işlevleri  
+- **Katmanlı Modeller:** OSI modelinin 7 katmanı ve her katmanın görevleri  
+- **OSI Modeli Örnekleri:** Katmanların veri iletimi sürecindeki işlevleri
 
 ---
 
-## Amaç
+## Makalelerim
 
-- Bilgisayar ağlarının temel prensiplerini öğrenmek  
-- OSI modeli ve katmanların işlevlerini anlamak  
-- Protokollerin veri iletimindeki rolünü kavramak  
-- Gerçek bir senaryo üzerinden (DAG yerleşkesi) uygulamalı örnek görmek
+Bilgisayar ağlarıyla ilgili yazdığım makalelere aşağıdaki bağlantılardan ulaşabilirsiniz:
 
-https://github.com/Aysegul21/bilgisayar-aglari-temelleri/blob/main/01-OSI-Model.md
+1. [OSI Modeli ve Katmanları](https://github.com/Aysegul21/bilgisayar-aglari-temelleri/blob/main/01-OSI-Model.md)  
