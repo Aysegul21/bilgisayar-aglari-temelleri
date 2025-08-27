@@ -21,3 +21,5 @@ Bu projede aşağıdaki konular hakkında bilgi verilmektedir:
 - OSI modeli ve katmanların işlevlerini anlamak  
 - Protokollerin veri iletimindeki rolünü kavramak  
 - Gerçek bir senaryo üzerinden (DAG yerleşkesi) uygulamalı örnek görmek
+
+https://github.com/Aysegul21/bilgisayar-aglari-temelleri/blob/main/01-OSI-Model.md
